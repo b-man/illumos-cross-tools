@@ -1,0 +1,5 @@
+gcc/gcc
+gcc/gmp-*
+gcc/mpc-*
+gcc/mpfr-*
+binutils-gdb/binutils-gdb
